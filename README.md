@@ -1,10 +1,10 @@
 # hello-world
 moments
 x = 20
-if x < 2:
+if x < 5:
+    print("happy")
+elif x > 13:
     print("good")
-elif x > 10:
-    print("nice")
 else:
-    print("better")
+    print("enjoy")
 print('all done')
