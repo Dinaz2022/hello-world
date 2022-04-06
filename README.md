@@ -1,9 +1,8 @@
 # hello-world
 moments
-x = 20
-if x < 5:
+ where y = 30
     print("happy")
-elif x > 13:
+else if y > 15:
     print("good")
 else:
     print("enjoy")
